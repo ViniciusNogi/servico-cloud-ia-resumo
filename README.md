@@ -1,0 +1,1 @@
+# servico-cloud-ia-resumo
